@@ -1,0 +1,7 @@
+What is kubernetes,
+Auto scaling and auto healing ,
+Linux command ,
+What is docker ,
+What is orchestration tool,
+Scenario based questions on kubernetes, 
+Write a shell scripts to ,transfer one file from one server to another , git synced command

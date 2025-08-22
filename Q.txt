@@ -5,3 +5,45 @@ What is docker ,
 What is orchestration tool,
 Scenario based questions on kubernetes, 
 Write a shell scripts to ,transfer one file from one server to another , git synced command
+
+
+
+
+Communication Round :
+
+1. Introduce Yourself 
+2. What are your strengths and weakness 
+3. Expresss Yourself in 2 words
+4. Family background 
+5. Who is your inspiration 
+6. What will you do in your free time
+7. Where do you see yourself in 5 years
+8. What are your short term and long term goals
+9. Talk about your native for a minute 
+10. How did you know about this course
+11. How much do you rate yourself out of 5 in devops skills
+12. What tools you know in devops.
+
+
+
+
+
+Self intro
+2. What is ci cd (delivery),(deployment)
+3. Difference between continuous delivery and continuous deployment
+4. Jobs in jenkins
+5. Define Docker volume
+6. Docker volume command
+7.command for creating docker image
+8. what is Shell scripting
+9. What is branching
+10. what is git
+11.ls git is present in all the server also like development, testing, production)
+12. What command is used to create a branch
+13. What is tom cat
+14.In docker what is port forwarding in container
+15. What tool is used to monitor in AWS
+16. How to run an image in an container at a particular port
+17. what is maven
+18. what is sonarqube
+19. give command for docker network
